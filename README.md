@@ -2,6 +2,5 @@
 * I deloyed it using Heroku.
 * It looks like below picture.
 
-<img src="todolist.png"
-     alt="Markdown Monster icon"/>
+![Todo List](/todolist.PNG?raw=true)
 
